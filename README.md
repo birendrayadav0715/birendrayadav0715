@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @birendrayadav0715
-- 👀 I’m interested in ...Data ScienceM & achine Learning
+- 👀 I’m interested in ...Data Science & Machine Learning
 - 🌱 I’m currently learning ...Python,Machine Learning,Deep Learning, NLP,Transformer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
